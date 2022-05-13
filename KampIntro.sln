@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OoP2\OOP2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{7171938F-1A26-4275-8B59-4AF0B2A372FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{7F2DC29B-0D5F-43E5-B9A2-ED4F1BC9722E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7171938F-1A26-4275-8B59-4AF0B2A372FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7171938F-1A26-4275-8B59-4AF0B2A372FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7171938F-1A26-4275-8B59-4AF0B2A372FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2DC29B-0D5F-43E5-B9A2-ED4F1BC9722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2DC29B-0D5F-43E5-B9A2-ED4F1BC9722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2DC29B-0D5F-43E5-B9A2-ED4F1BC9722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2DC29B-0D5F-43E5-B9A2-ED4F1BC9722E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
